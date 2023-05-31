@@ -1,0 +1,7 @@
+cell wall strengh increases the time it stays in maturity for more offspring, in exchange for a longer inital growth
+large leaf size increases energy aquired per turn, but larger leaves increases the chance of being eaten
+large root networks improves surival in dry enviroments, but increases chance of death in wetter enviroments
+having a storage root allows skipping the growth stage and allows for surival after "death cases" after maturity, but needs stored energy from the leaves. if it reaches 0 it dies.
+the higher the colour shade, the lighter the leaves, meaning that they can surive high tempretures better, but is less efficent at converting energy.
+when passing down the genes it will take half of 2 random mature parents in the field
+mutation is random ivrelent of the all other conditions when passing down the genes, and is only affected by the radiation stat
