@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dc8fc5c761574584492cf090f0a18499
+  - enabled: 1
+    path: Assets/Scenes/GradedUI.unity
+    guid: f854713a0ad092c45a2018dc2ae92d77
+  - enabled: 1
+    path: Assets/Scenes/ShopUI.unity
+    guid: 8a37e6ca64b612f41a4ee1839a3cd3a0
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: f49701d5241b1e548946a9a2376d3d09
+  - enabled: 1
+    path: Assets/Scenes/Nmesh-DemoTwo.unity
+    guid: 3bb2fd20c04a44a479557fe8258609ed
+  - enabled: 1
+    path: Assets/Scenes/PenguinSliding.unity
+    guid: ec2268e8005d6cc4f9ef525642f02c8c
+  - enabled: 1
+    path: Assets/Scenes/FeedMeerkat2DMiniGame.unity
+    guid: 2f7e96203e633b846bf99424b80a4ada
+  - enabled: 1
+    path: Assets/Scenes/SlothRacing.unity
+    guid: 92d9cea8dc579b84882678edc708dde6
+  - enabled: 1
+    path: Assets/Scenes/CoatiMaze.unity
+    guid: c5f7d6ad2a77fda4ab4842f0142ad8b2
+  - enabled: 1
+    path: Assets/Scenes/panda dance.unity
+    guid: a0c0346d80fe0dd4db0e3ecc39383156
+  - enabled: 1
+    path: Assets/Scenes/EndSplashScreen.unity
+    guid: ad241954ba924d84f89381d05c0bcbac
+  m_configObjects: {}
